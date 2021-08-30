@@ -2,14 +2,14 @@
 <div align="center">
   <img border-radius: 15px src="devil.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Fidhamwol" src="https://img.shields.io/badge/kurumbimol--green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="kurumbimol-" src="https://img.shields.io/badge/kurumbimol--green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Hypersir"><img title="Author" src="https://img.shields.io/badge/Author-Hyper-Sir/Fidhamwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/prabithkuttu"><img title="Author" src="https://img.shields.io/badge/Author-Devil-Sir/kurumbimol-?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Hypersir">Hyper-sir</a> to make it public
+Project created by <a href="https://github.com/prabithkuttu">Devil-sir</a> to make it public
     <br>
        | © |
         Reserved |
@@ -21,7 +21,7 @@ Project created by <a href="https://github.com/Hypersir">Hyper-sir</a> to make i
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hypersir/Fidha-mwol) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prabithkuttu/kurumbimol-) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
@@ -30,19 +30,19 @@ Project created by <a href="https://github.com/Hypersir">Hyper-sir</a> to make i
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Hypersir/Fidha-Mwol
-$ cd Fidha-Mwol
+$ git clone https://github.com/prabithkuttu/kurumbimol-
+$ cd kurumbimol- 
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node Fidha.js
+$ node Kurumbi.js
 ```
       
 ```js
 SETUP
-$ git clone https://github.com/Hypersir/FidhaMwol
-$ cd FidhaMwol
+$ git clone https://github.com/prabithkuttu/kurumbimol- 
+$ cd kurumbimol- 
 $ npm i
-$ node Fidha.js
+$ node kurumbi.js
 ```
 
 ----
@@ -50,10 +50,10 @@ $ node Fidha.js
   <p align="center">
   <a href="httsp://github.com/farhan-dqz/JulieMwol">
     
-<a href="https://github.com/Hypersir/followers">
+<a href="https://github.com/prabithkuttu/followers">
 <img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Hypersir/followers"
+<a href="https://github.com/prabithkuttu/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
 <a href="https://github.com/farhan-dqz/JulieMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
 <a href="https://github.com/farhan-dqz/JulieMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
@@ -67,7 +67,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/IHkfNDqMxCxB91IdM2EH5o)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hypersir&repo=Fidha-Mwol&theme=nightowl)](https://github.com/Hypersir/Fidha-mwol)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prabithkuttu&repo=kurumbimol-&theme=nightowl)](https://github.com/prabithkuttu/kurumbimol-)
   </div>
     
 ### ⚠️ Warning! 
@@ -81,9 +81,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Hyper Sir](https://i.imgur.com/K4xzd0M.jpeg)](https://github.com/Hypersir) |  [![hyper_sir](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![prabithkuttu](https://i.imgur.com/K4xzd0M.jpeg)](https://github.com/prabithkuttu) |  [![Devil_sir](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [Hyper-sir](https://github.com/Hypersir) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
+[farhan-dqz](https://github.com/farhan-dqz) | [Devil-sir](https://github.com/prabithkuttu) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
