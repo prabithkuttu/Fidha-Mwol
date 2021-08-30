@@ -2,7 +2,7 @@
 <div align="center">
   <img border-radius: 15px src="devil.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Fidhamwol" src="https://img.shields.io/badge/fidha-mwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Fidhamwol" src="https://img.shields.io/badge/kurumbimol--green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/Hypersir"><img title="Author" src="https://img.shields.io/badge/Author-Hyper-Sir/Fidhamwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
