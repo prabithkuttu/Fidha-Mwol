@@ -9,7 +9,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/prabithkuttu">Devil-sir</a> to make it public
+Project created by <a href="https://github.com/prabithkuttu">prabith-sir</a> to make it public
     <br>
        | © |
         Reserved |
